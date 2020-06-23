@@ -20,8 +20,8 @@ This is my list:
     <img height=400px width=600px>
 </p>
 ```
-First Header | Second Header
+Team Members | Github Info
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 3 | Content column 4
-Content column 5 | this is my cell 6
+Hnery Le | https://github.com/henryle-n
+Ekin Kaplan | https://github.com/ekin651
+O.J. Ndebbio | https://github.com/ojndebbio
