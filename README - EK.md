@@ -25,7 +25,7 @@ This is my list:
   
 <hr>
 
-## OS / Tools / Techniques / Modules
+## Tools / Techniques / Modules
 * Python |  HTML5 / CSS3 | Markdown
 * Flask | Bootstrap | Spinter | ChromeDriver 
 * ETL | SQLite database creation| Python Flask App | API routes | Webpage Rendering | Node.js| Chart.js | Plotly.js | Webpage designs.
