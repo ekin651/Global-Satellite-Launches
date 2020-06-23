@@ -27,7 +27,7 @@ This is my list:
 
 ## Tools / Techniques / Modules
 * Python |  HTML5 / CSS3 | Markdown
-* Flask | Bootstrap | Spinter | ChromeDriver 
+* Flask | Bootstrap 
 * ETL | SQLite database creation| Python Flask App | API routes | Webpage Rendering | Node.js| Chart.js | Plotly.js | Webpage designs.
 
 
