@@ -20,6 +20,23 @@ This is my list:
     <img height=400px width=600px>
 </p>
 ```
+
+
+  
+<hr>
+
+## OS / Tools / Techniques / Modules
+* Python Flask App    | API routes   |  HTML5 / CSS3 | Markdown
+* Flask | Bootstrap | Spinter | ChromeDriver |
+* ETL, SQLite database creation, Python Flask App, API routes, webpage rendering, Node.js, Chart.js, Plotly.js, Webpage designs.
+
+
+
+
+
+
+
+
 Team Members | Github Info
 ------------ | -------------
 Hnery Le | https://github.com/henryle-n
