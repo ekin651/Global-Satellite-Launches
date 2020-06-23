@@ -6,7 +6,8 @@
 ## Tools / Techniques / Modules
 * Python |  HTML5 / CSS3 | Markdown | JavaScript |
 * Flask | Bootstrap 
-* ETL | SQLite database creation| Python Flask App | API routes | Webpage Rendering | Node.js| Chart.js | Plotly.js | Webpage designs.
+* ETL | SQLite database creation| Python Flask App | API routes | Webpage Rendering |
+* Node.js| Chart.js | Plotly.js | Webpage designs
 
 
 
