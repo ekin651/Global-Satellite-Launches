@@ -39,6 +39,6 @@ This is my list:
 
 Team Members | Github Info
 ------------ | -------------
-Hnery Le | https://github.com/henryle-n
+Henry Le | https://github.com/henryle-n
 Ekin Kaplan | https://github.com/ekin651
 O.J. Ndebbio | https://github.com/ojndebbio
